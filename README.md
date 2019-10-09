@@ -9,3 +9,5 @@ Para rodar api, basta executar npm run dev
 e para rodar o front, usamos o http-server no diretório alunos-front
 
 Ambos rodando simultaneamente.
+
+index.html se encontra na pasta alunos-front. 
