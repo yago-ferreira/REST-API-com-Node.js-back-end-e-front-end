@@ -1,6 +1,6 @@
 # REST-API-com-Node.js-back-end-e-front-end
 
-Para executar o projeto finalizado, precisamos de dois terminais abertos, um apontando para a pasta alunos-api e outro para alunos-front.
+Para executar o projeto, precisamos de dois terminais abertos, um apontando para a pasta alunos-api e outro para alunos-front.
 
 caso for rodar a primeira vez a api, precisamos executar o npm install.
 
